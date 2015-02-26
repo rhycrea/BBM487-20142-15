@@ -1,0 +1,38 @@
+Proje Grubu 15 - Roller
+
+- Proje Yöneticisi
+-> Alim Giray Aytar
+
+    Proje yöneticisi; projede yapılacak olan işler (scope) ile bu işleri gerçekleştirmek için gerekli olan kaynakların belirlenmesini (requirements) ve planlamasını yürütür. Projenin planlandığı gibi yürümesi ve iş dağılımının ekip içinde düzgün belirlenmesi proje yönetcisinin sorumluluğundadır. Çıkması olası takım içi anlaşmazlıkların ve dışsal problemlerin çözümü de yine proje yöneticisinin görevidir.
+    
+    Bunların yanında, proje yöneticisi müşteri ile geliştirme ekibi arasındaki iletişim noktasıdır. Müşterinin isteklerinin ekibe aktarılması ve ekibin isteklerinin/gereksinimlerinin giderilmesi de yine proje yöneticisinin görevidir.
+
+- Tasarımcı
+-> Oğuz Kaan Yaşar
+
+..
+
+- Sistem Analizcisi
+-> Ahmet Alaca
+
+..
+
+- Yazılım Geliştirme Uzmanı
+-> Batu Yekebağcı
+
+..
+
+- Yazılım Geliştirme Uzmanı
+-> Aybars Yüksel
+
+..
+
+- Yazılım Geliştirme Uzmanı
+-> Ahmet Ağılkaya
+
+..
+
+- Yazılım Test Uzmanı
+-> Berkan Canatan
+
+..
