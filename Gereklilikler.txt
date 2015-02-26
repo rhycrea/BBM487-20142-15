@@ -1,0 +1,71 @@
+Öğrenci Bilgi Gözlem Sistemi
+Gereklilikler Dosyası
+
+Proje Tanımı
+    
+    - Üniversitede, öğrenciler ile akademik ve idari personelin, öğrenim dönemlerinin düzenlenmesini, takibini ve idaresini yapabileceği bir bilgisayar programı yapılacaktır. Programda tüm personel ve öğrencilerin görevleri ve yetkileri titizlikle tespit edilmiş olup, bu program sayesinde açılan derslerin takibinin, kayıt işlemlerinin ve öğrencilerin akademik durumları hakkındaki bilgilendirilmesinin kolaylıkla gerçekleştirilebilmesini hedeflemekteyiz.
+    
+
+Projenin Kapsamı
+
+    Proje kapsamında gerçekleştirilecek olan program, şu özelliklere sahip olacaktır:
+    
+        - Akademik personel, idari personel ve öğrenciler için ayrı roller ve yetkiler belirlenecektir.
+        
+        - İdari personeller (öğrenci işleri): 
+            + Fakülte ve bölümlerin tanımlanması,
+            + Üniversitede varolan bütün derslerin tanımlanması ve yeni ders eklenmesi,
+            + Derslerin kredilerinin ve içeriklerinin belirlenmesi, 
+            + Akademik takvimin, ders kayıt, ekle-sil, onay ve not giriş dönemlerinin belirlenmesi,
+            + O dönem açılacak derslerin belirlenmesi,
+            + Hangi dersi hangi akademisyenin açacağının belirlenmesi ve onayı,
+            + Açılacak derslerin kontenjanlarının, saatlerinin ve yerlerinin belirlenmesi,
+            + Sisteme yeni personel, akademisyen ve öğrenci kaydının yapılması,
+            + Yeni ders, ders tanımı ve öğrenci ekleme işleminin toplu olarak yapılması,
+            
+            yetki, imkan ve sorumluluklarına sahip olacaklardır.
+            
+        - Akademik personeller:
+            + Danışmanı olduğu öğrencilerin ders kayıtlarını onaylama,
+            + Dönem sonunda öğrencilerinin notlarının sisteme girilmesi,
+            + Öğrencilerin akademik bilgilerine ulaşabilme,
+            + Verdiği dersi alan öğrencilerin listesini görebilme,
+            + Şimdiye kadar vermiş olduğu derslerin listesini alabilme,
+            
+            yetki, imkan ve sorumluluklarına sahip olacaklardır.
+            
+        - Öğrenciler:
+            + Akademik takvim, karne ve transkript bilgilerine ulaşabilme,
+            + Ders kayıt ve ekle sil dönemlerinde ders ekleyebilme / silebilme,
+            + O dönem için açılacak bölüm derslerini ve seçmeli dersleri görebilme,
+            + Dersleri arayabilme ve ders içeriklerine kolayca ulaşabilme,
+            + Açılan derslerdeki kontenjan ve doluluk durumlarını görebilme,
+            + Açılan dersin sorumlularını, saatlerini ve yerlerini görebilme,
+            + Açılan ders için, eğer kayıt yaptıramamışsa kontenjan artırımı isteği gönderebilme,
+            + Geçmiş dönemde aldığı ve başarılı olamadığı derslerin üzerine eklenmesi,
+            + Ders kaydı döneminde kredi denetimi ve uyarılarını alabilme,
+            + Ders programını görsel bir biçimde elde edebilme ve yazdırabilme,
+            
+            yetki, imkan ve sorumluluklarına sahip olacaklardır.
+            
+            
+Projenin Uygulanması ve Teknik Detaylar
+
+    Proje "henüzbellideğil" dili ve teknolojileri kullanılarak geliştirilecektir. Bu sayede hızlı
+ve güvenilir bir hizmet, en kısa sürede müşteriye sunulabilecektir.
+
+
+Proje Kısıtlamarı ve Uyarılar
+
+    Proje kapsamında gerçekleştirilmesi beklenmeyen ya da müşterinin inisiyatifine bırakılmış bazı durumlar mevcuttur. Bunlar:
+    
+        - Ders kayıt dönemlerindeki erişim problemleri
+            + Bu durum sistemin bir cloud service (örneğin AWS) üzerinde çalıştırılması ile çözülebilir, bu sayede ders kayıt sistemlerinde sunucu kaynakları artırılarak erişim sorunsuzca sağlanabilir, aynı zamanda yoğun talep olmadığı dönemde sunucu kaynakları azaltılarak tasarruf edilebilir. Ancak müşteri, bilgilerinin dışsal bir serviste bulunmasını istemezse bu çözüm uygulanmaz.
+            
+            
+Gereklilikler
+
+    Yukarıda yazılanlar da göz önünde bulundurularak, müşteri tarafından sunulabilecek bütün döküman, bilgi ve isteklerin ekibimize iletilmesi, sürecin daha hızlı ve sorunsuz ilerleyebilmesini sağlayabilecektir.
+
+            
+        
