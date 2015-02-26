@@ -16,7 +16,7 @@ Proje Grubu 15 - Roller
 
 ..
 
-- Sistem Analizcisi
+- Sistem Analisti
 -> Ahmet Alaca
 
 ..
