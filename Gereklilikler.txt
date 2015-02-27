@@ -18,6 +18,8 @@ Projenin Kapsamı
             + Derslerin kredilerinin ve içeriklerinin belirlenmesi, 
             + Akademik takvimin, ders kayıt, ekle-sil, onay ve not giriş dönemlerinin belirlenmesi,
             + O dönem açılacak derslerin belirlenmesi,
+            + Açılan derslere hangi öğrencilerin kayıt yaptırabileceğinin belirlenmesi,
+            + Önkayıt sistemini düzenleme,
             + Hangi dersi hangi akademisyenin açacağının belirlenmesi ve onayı,
             + Açılacak derslerin kontenjanlarının, saatlerinin ve yerlerinin belirlenmesi,
             + Sisteme yeni personel, akademisyen ve öğrenci kaydının yapılması,
