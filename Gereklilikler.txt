@@ -34,6 +34,8 @@ Projenin Kapsamı
             + Verdiği dersi alan öğrencilerin listesini görebilme,
             + Şimdiye kadar vermiş olduğu derslerin listesini alabilme,
             + Ders materyallerini ilgili dersin sayfasına yükleyebilme,
+            + Ders programını dersin sayfasına ekleyebilme,
+            + Dersle ilgili duyuruları dersin sayfasında yayınlayabilme,
             
             yetki, imkan ve sorumluluklarına sahip olacaklardır.
             
