@@ -3,9 +3,9 @@
 Grup Elemanları: 
 <br><br>
 Ahmet Alaca<br>
-Batu Yekebağcı
-Aybars Yüksel
-Ahmet Ağılkaya
-Oğuz Kaan Yaşar
-Alim Giray Aytar
-Berkan Canatan
+Batu Yekebağcı<br>
+Aybars Yüksel<br>
+Ahmet Ağılkaya<br>
+Oğuz Kaan Yaşar<br>
+Alim Giray Aytar<br>
+Berkan Canatan<br>
