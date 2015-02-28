@@ -1,0 +1,80 @@
+ihtiyaç -> Fakülte ekleme-silme, fakülte bilgilerini düzenleme
+öncelik -> 1
+modül -> İdare
+
+ihtiyaç -> Fakültelere bölüm atama
+öncelik -> 1 
+modül -> İdare
+
+ihtiyaç -> Bölümlere akademisyen atama
+öncelik -> 1
+modül -> İdare
+
+ihtiyaç -> Bölümlere ders atama (zorunlu dersler)
+öncelik -> 1
+modül -> İdare
+
+ihtiyaç -> Bölümlere öğrenci atama
+öncelik -> 1
+modül -> İdare
+
+ihtiyaç -> Akademisyen ekleme-silme, akademisyen bilgilerini düzenleme
+öncelik -> 1
+modül -> İdare
+
+ihtiyaç -> Akademisyenlere ders atama
+öncelik -> 1
+modül -> İdare
+
+ihtiyaç -> Akademisyenlere öğrenci atama (danışmanlık sistemi)
+öncelik -> 1
+modül -> İdare
+
+ihtiyaç -> Ders kayıt, ekle-sil, onay tarihlerini belirleme
+öncelik -> 1
+modül -> İdare
+
+ihtiyaç -> Ders ekleme-silme, ders bilgilerini düzenleme
+öncelik -> 1
+modül -> İdare
+
+ihtiyaç -> Öğrenci ekleme-silme, öğrenci akademik bilgilerini düzenleme
+öncelik -> 1
+modül -> İdare
+
+ihtiyaç -> Danışmanı olduğu öğrencilerin ders kayıtlarını onaylama
+öncelik -> 2
+modül -> Akademisyen
+
+ihtiyaç -> Danışmanı olduğu öğrencilerin listesini görme
+öncelik -> 2
+modül -> Akademisyen
+
+ihtiyaç -> Danışmanı olduğu öğrencilerin akademik bilgilerini görme
+öncelik -> 2
+modül -> Akademisyen
+
+ihtiyaç -> Sorumlusu olduğu dersi alan öğrencilerin listesini görme
+öncelik -> 2
+modül -> Akademisyen
+
+ihtiyaç -> Sorumlusu olduğu dersi alan öğrencilerin akademik bilgilerini 			görme
+öncelik -> 2
+modül -> Akademisyen
+
+ihtiyaç -> Ders kayıt, ekle-sil dönemlerinde ders seçme
+öncelik -> 3
+modül -> Öğrenci
+
+ihtiyaç -> Ders arama, ders bilgilerini görme
+öncelik -> 3
+modül -> Öğrenci
+
+ihtiyaç -> Karnelerini görme
+öncelik -> 3
+modül -> Öğrenci
+
+ihtiyaç -> Transkript görme
+öncelik -> 3
+modül -> Öğrenci
+
