@@ -1,0 +1,17 @@
+gereksinim -> Sunucu : Linux
+öncelik -> 1
+
+gereksinim -> Programlama dilleri : PHP(back-end), HTML(front-end), CSS(front-end), Javascript(front-end)
+öncelik -> 1
+
+gereksinim -> Program geliştirme çatısı : Codeigniter
+öncelik -> 1
+
+gereksinim -> Merkezi veritabanı : MySQL
+öncelik -> 1
+
+gereksinim -> Güvenlik : Kullanıcı girdilerini filtreleme, kullanıcı bilgilerinin şifrelenerek saklanması
+öncelik -> 1
+
+gereksinim -> Yardım : Form alanları üzerinde ipuçları, hatalı/eksik girdilerde açıklayıcı hata mesajı
+öncelik -> 2
