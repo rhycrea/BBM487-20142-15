@@ -1,0 +1,16 @@
+Başlangıç bütçesi : 100.000TL
+
+
+	Ödenen:
+		proje yöneticisi			    -10.000
+		sistem analisti			      -6.000
+		tasarımcı					        -6.000
+		yazılım geliştirme uzmanı	-4.000 x 2
+		yazılım test uzmanı			  -4.000
+		______________________________________
+		toplam						        -34.000TL
+
+Bütçe durumu : 66.000TL (28-02-2015)
+
+
+
