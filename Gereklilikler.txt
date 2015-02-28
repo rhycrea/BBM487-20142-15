@@ -12,46 +12,40 @@ Projenin Kapsamı
     
         - Akademik personel, idari personel ve öğrenciler için ayrı roller ve yetkiler belirlenecektir.
         
-        - İdari personeller (öğrenci işleri): 
-            + Fakülte ve bölümlerin tanımlanması,
-            + Üniversitede varolan bütün derslerin tanımlanması ve yeni ders eklenmesi,
-            + Derslerin kredilerinin ve içeriklerinin belirlenmesi, 
-            + Akademik takvimin, ders kayıt, ekle-sil, onay ve not giriş dönemlerinin belirlenmesi,
-            + O dönem açılacak derslerin belirlenmesi,
-            + Açılan derslere hangi öğrencilerin kayıt yaptırabileceğinin belirlenmesi,
-            + Önkayıt sistemini düzenleme,
-            + Hangi dersi hangi akademisyenin açacağının belirlenmesi ve onayı,
-            + Açılacak derslerin kontenjanlarının, saatlerinin ve yerlerinin belirlenmesi,
-            + Sisteme yeni personel, akademisyen ve öğrenci kaydının yapılması,
-            + Yeni ders, ders tanımı ve öğrenci ekleme işleminin toplu olarak yapılması,
-            
-            yetki, imkan ve sorumluluklarına sahip olacaklardır.
-            
-        - Akademik personeller:
-            + Danışmanı olduğu öğrencilerin ders kayıtlarını onaylama,
-            + Dönem sonunda öğrencilerinin notlarının sisteme girilmesi,
-            + Öğrencilerin akademik bilgilerine ulaşabilme,
-            + Verdiği dersi alan öğrencilerin listesini görebilme,
-            + Şimdiye kadar vermiş olduğu derslerin listesini alabilme,
-            + Ders materyallerini ilgili dersin sayfasına yükleyebilme,
-            + Ders programını dersin sayfasına ekleyebilme,
-            + Dersle ilgili duyuruları dersin sayfasında yayınlayabilme,
-            
-            yetki, imkan ve sorumluluklarına sahip olacaklardır.
-            
-        - Öğrenciler:
-            + Akademik takvim, karne ve transkript bilgilerine ulaşabilme,
-            + Ders kayıt ve ekle sil dönemlerinde ders ekleyebilme / silebilme,
-            + O dönem için açılacak bölüm derslerini ve seçmeli dersleri görebilme,
-            + Dersleri arayabilme ve ders içeriklerine kolayca ulaşabilme,
-            + Açılan derslerdeki kontenjan ve doluluk durumlarını görebilme,
-            + Açılan dersin sorumlularını, saatlerini ve yerlerini görebilme,
-            + Açılan ders için, eğer kayıt yaptıramamışsa kontenjan artırımı isteği gönderebilme,
-            + Geçmiş dönemde aldığı ve başarılı olamadığı derslerin üzerine eklenmesi,
-            + Ders kaydı döneminde kredi denetimi ve uyarılarını alabilme,
-            + Ders programını görsel bir biçimde elde edebilme ve yazdırabilme,
-            
-            yetki, imkan ve sorumluluklarına sahip olacaklardır.
+        - İdari Personel
+        	- Fakülte işlemleri
+        		+ Fakülte ekleme-silme, fakülte bilgilerini düzenleme
+        		+ Fakültelere bölüm atama
+        	- Bölüm işlemleri
+        		+ Bölüm ekleme-silme, bölüm bilgilerini düzenleme
+        		+ Bölümlere akademisyen atama
+        		+ Bölümlere ders atama (zorunlu dersler)
+        		+ Bölümlere öğrenci atama
+        	- Akademisyen işlemleri
+        		+ Akademisyen ekleme-silme, akademisyen bilgilerini düzenleme
+        		+ Akademisyenlere ders atama
+        		+ Akademisyenlere öğrenci atama (danışmanlık sistemi)
+        	- Ders işlemleri
+        		+ Ders kayıt, ekle-sil, onay tarihlerini belirleme
+        		+ Ders ekleme-silme, ders bilgilerini düzenleme	
+        	- Öğrenci işlemleri
+        		+ Öğrenci ekleme-silme, öğrenci akademik bilgilerini düzenleme
+
+        - Akademisyen
+        	- Öğrenci işlemleri
+        		+ Danışmanı olduğu öğrencilerin ders kayıtlarını onaylama
+        		+ Danışmanı olduğu öğrencilerin listesini görme
+        		+ Danışmanı olduğu öğrencilerin akademik bilgilerini görme
+        		+ Sorumlusu olduğu dersi alan öğrencilerin listesini görme
+        		+ Sorumlusu olduğu dersi alan öğrencilerin akademik bilgilerini görme
+
+        - Öğrenci
+        	- Ders işlemleri
+        		+ Ders kayıt, ekle-sil dönemlerinde ders seçme
+        		+ Ders arama, ders bilgilerini görme
+        	- Akademik işlemler
+        		+ Karnelerini görme
+        		+ Transkript görme
             
             
 Projenin Uygulanması ve Teknik Detaylar
