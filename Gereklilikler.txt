@@ -56,8 +56,7 @@ Projenin Kapsamı
             
 Projenin Uygulanması ve Teknik Detaylar
 
-    Proje "henüzbellideğil" dili ve teknolojileri kullanılarak geliştirilecektir. Bu sayede hızlı
-ve güvenilir bir hizmet, en kısa sürede müşteriye sunulabilecektir.
+    Proje PHP, HTML, CSS, MYSQL, JavaScript, CodeIgniter dili ve teknolojileri kullanılarak geliştirilecektir. Bu sayede hızlı ve güvenilir bir hizmet, en kısa sürede müşteriye sunulabilecektir.
 
 
 Proje Kısıtlamarı ve Uyarılar
