@@ -1,8 +1,8 @@
 # BBM487-20142-15
 
 Grup Elemanları: 
-
-Ahmet Alaca
+<br><br>
+Ahmet Alaca<br>
 Batu Yekebağcı
 Aybars Yüksel
 Ahmet Ağılkaya
