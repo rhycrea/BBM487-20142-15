@@ -1,0 +1,8 @@
+isim -> Sistem analisti
+
+tanım -> İşin, amaca uygun olarak yürütülmesiyle ilgilenir. 
+         Son kullanıcılar ve yazılım geliştirme uzmanları arasındaki iletişimi sağlar.
+
+sorumluluklar -> Gereksinimlerin belirlenmesi, tasarım, gerçekleştirim ve test kısımlarında dolaylı olarak rol alır. 
+                 Proje için en uygun teknolojilerin belirlenmesinde görev alır. 
+                 Projenin bütün süreçlerinin uygun şekilde gerçekleştirilmesinden sorumludur.
